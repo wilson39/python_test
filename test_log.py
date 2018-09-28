@@ -49,7 +49,7 @@ def  test_log_file():
 
 	assert info_count == 50
 	assert warn_count == 11
-	assert error_count == 30
+	assert error_count == 3
 
 
 test_log_file()		
