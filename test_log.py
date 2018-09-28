@@ -3,7 +3,7 @@
 
 import my_func
 
-path = '/home/wilson/Downloads/log.txt'
+path = 'C:\Users\Admin\Downloads\log.txt'
 
 def  test_log_file():
 
