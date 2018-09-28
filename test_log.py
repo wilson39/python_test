@@ -42,7 +42,7 @@ def count_no(file_name):
 	return(info_count, warn_count,error_count)
 	
 '''pytest verification '''
-file_name = r'C:\Users\Admin\Downloads\log.txt'
+file_name = r'C:\Users\Admin\Downloads\new_log.txt'
 def  test_log_file():
 
 	info_count, warn_count,error_count = count_no(file_name)
