@@ -17,4 +17,3 @@ pipeline {
     }
 }
 
-just added new line to test
