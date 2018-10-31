@@ -1,0 +1,18 @@
+pipeline {   
+   agent any
+    
+    stages {
+       
+		stage('Test') {
+            steps {
+                echo 'Consuming log file...'
+                
+               bat 'C:/Users/Admin/Downloads/wget_path.bat'
+               
+              
+              
+            }
+            
+        }
+    }
+}
